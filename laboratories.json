@@ -1,0 +1,287 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2024-01-15",
+  "laboratories": [
+    {
+      "name": "TÜV SÜD Product Service GmbH",
+      "variations": [
+        "tuv sud product",
+        "tüv süd product",
+        "tuev sued product",
+        "tuv sued product service",
+        "tüv süd ps",
+        "tuv sud ps",
+        "tüv süd product service"
+      ],
+      "nbNumber": "0123",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "TÜV Rheinland LGA Products GmbH",
+      "variations": [
+        "tuv rheinland",
+        "tüv rheinland",
+        "tuv rheinland lga",
+        "tr lga",
+        "tuv rheinland products",
+        "tüv rheinland products"
+      ],
+      "nbNumber": "0197",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "SGS Fimko Oy",
+      "variations": [
+        "sgs fimko",
+        "sgs finland",
+        "sgs",
+        "sgs fimko oy",
+        "fimko"
+      ],
+      "nbNumber": "0598",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "UL International Demko A/S",
+      "variations": [
+        "ul demko",
+        "ul international demko",
+        "ul denmark",
+        "demko",
+        "ul international"
+      ],
+      "nbNumber": "0539",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "Bureau Veritas Consumer Products Services Germany GmbH",
+      "variations": [
+        "bureau veritas",
+        "bv consumer products",
+        "bureau veritas cps",
+        "bvcp",
+        "bv germany"
+      ],
+      "nbNumber": "2004",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "Intertek Testing & Certification Ltd",
+      "variations": [
+        "intertek",
+        "intertek testing",
+        "intertek certification",
+        "itc",
+        "intertek testing services",
+        "its"
+      ],
+      "nbNumber": "0359",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "DEKRA Testing and Certification GmbH",
+      "variations": [
+        "dekra testing",
+        "dekra certification",
+        "dekra",
+        "dekra test cert",
+        "dekra germany"
+      ],
+      "nbNumber": "0158",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "BSI Group The Netherlands B.V.",
+      "variations": [
+        "bsi group netherlands",
+        "bsi nl",
+        "bsi netherlands",
+        "british standards institution netherlands"
+      ],
+      "nbNumber": "2797",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "BSI Assurance UK Ltd",
+      "variations": [
+        "bsi uk",
+        "bsi assurance",
+        "british standards institution",
+        "bsi testing",
+        "bsi certification"
+      ],
+      "nbNumber": "0086",
+      "type": ["UK_APPROVED"]
+    },
+    {
+      "name": "NEMKO AS",
+      "variations": [
+        "nemko",
+        "nemko norway",
+        "nemko as",
+        "nemko certification",
+        "nemko testing"
+      ],
+      "nbNumber": "0470",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "CTC Advanced GmbH",
+      "variations": [
+        "ctc advanced",
+        "ctc testing",
+        "ctc germany",
+        "ctc lab",
+        "ctc certification"
+      ],
+      "nbNumber": "0682",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "Phoenix Testlab GmbH",
+      "variations": [
+        "phoenix testlab",
+        "phoenix test",
+        "phoenix laboratory",
+        "phoenix testing"
+      ],
+      "type": ["ACCREDITED"]
+    },
+    {
+      "name": "CSA Group Bayern GmbH",
+      "variations": [
+        "csa bayern",
+        "csa group germany",
+        "csa testing",
+        "csa certification"
+      ],
+      "nbNumber": "1948",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "DGUV Test",
+      "variations": [
+        "dguv test",
+        "dguv certification",
+        "dguv testing",
+        "deutsche gesetzliche unfallversicherung"
+      ],
+      "nbNumber": "0515",
+      "type": ["EU_NOTIFIED"]
+    },
+    {
+      "name": "DIN CERTCO",
+      "variations": [
+        "din certco",
+        "din certification",
+        "deutsches institut für normung",
+        "din testing"
+      ],
+      "nbNumber": "0196",
+      "type": ["EU_NOTIFIED"]
+    },
+    {
+      "name": "VDE Testing and Certification Institute",
+      "variations": [
+        "vde testing",
+        "vde certification",
+        "vde institute",
+        "vde pruf",
+        "vde pruef"
+      ],
+      "nbNumber": "0366",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "CETECOM GmbH",
+      "variations": [
+        "cetecom",
+        "cetecom testing",
+        "cetecom lab",
+        "cetecom germany"
+      ],
+      "nbNumber": "0682",
+      "type": ["EU_NOTIFIED", "ACCREDITED"]
+    },
+    {
+      "name": "UL VS Hong Kong Limited",
+      "variations": [
+        "ul vs hong kong",
+        "ul vs",
+        "ul verification services",
+        "ul vs ltd",
+        "ul hong kong"
+      ],
+      "type": ["ACCREDITED"],
+      "specialStatus": "AMAZON_APPROVED"
+    },
+    {
+      "name": "TUV Rheinland Hong Kong Ltd.",
+      "variations": [
+        "tuv rheinland hong kong",
+        "tüv rheinland hong kong",
+        "tuv rheinland hk",
+        "tr hong kong"
+      ],
+      "type": ["ACCREDITED"],
+      "specialStatus": "AMAZON_APPROVED"
+    },
+    {
+      "name": "Bay Area Compliance Laboratories Corp.",
+      "variations": [
+        "bacl",
+        "bay area compliance",
+        "bacl corp",
+        "bay area compliance laboratories"
+      ],
+      "type": ["ACCREDITED"]
+    },
+    {
+      "name": "Element Materials Technology",
+      "variations": [
+        "element materials",
+        "element testing",
+        "element labs",
+        "element certification"
+      ],
+      "type": ["ACCREDITED"]
+    },
+    {
+      "name": "Eurofins E&E Product Testing Service (Shenzhen) Co., Ltd",
+      "variations": [
+        "eurofins",
+        "eurofins testing",
+        "eurofins product testing",
+        "eurofins shenzhen",
+        "eurofins e&e"
+      ],
+      "type": ["ACCREDITED"]
+    },
+    {
+      "name": "SIEMIC, Inc.",
+      "variations": [
+        "siemic",
+        "siemic inc",
+        "siemic laboratories",
+        "siemic testing"
+      ],
+      "type": ["ACCREDITED"]
+    },
+    {
+      "name": "Washington Laboratories, Ltd.",
+      "variations": [
+        "washington laboratories",
+        "washington labs",
+        "wll testing"
+      ],
+      "type": ["ACCREDITED"]
+    }
+  ],
+  "validationRules": {
+    "matchThreshold": 0.8,
+    "requireExactMatch": false,
+    "checkNotifiedBody": false,
+    "allowPartialMatch": true,
+    "minMatchLength": 4
+  }
+}
